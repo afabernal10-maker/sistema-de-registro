@@ -5,3 +5,5 @@
 para ejecutar el sistema poner:
 
 ``` npm-install react ```
+
+ejecutar sistema 2
